@@ -16,7 +16,7 @@
     "bv-react-svgloader": "^1.1.1",
     "cookie": "^0.4.0",
     "isomorphic-unfetch": "^3.0.0",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "next": "^9.0.4",
     "node-sass": "^6.0.1",
     "nodemon": "^1.19.1",
